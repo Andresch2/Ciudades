@@ -1,0 +1,23 @@
+header {
+    background-color: #675858;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+nav {
+    background-color: #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+
+section {
+    padding: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
